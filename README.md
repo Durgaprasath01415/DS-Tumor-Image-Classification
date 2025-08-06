@@ -1,4 +1,4 @@
-# Brain Tumor MRI Image Classification
+# 🧠Brain Tumor MRI Image Classification🧠
 
 ## Skills used for this project
 
