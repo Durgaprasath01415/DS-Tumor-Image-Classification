@@ -8,7 +8,7 @@ from PIL import Image
 import numpy as np
 
 # Load the trained model
-model = tf.keras.models.load_model('models/Custom_CNN_best_model.h5')
+model = tf.keras.models.load_model('models/ResNet-50_best_model.h5')
 
 st.title("Brain Tumor MRI Image Classifier")
 st.write("Upload a brain MRI image to get a tumor type prediction.")
